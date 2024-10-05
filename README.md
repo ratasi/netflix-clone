@@ -1,36 +1,20 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+## @tarredev - Video creado en mi canal de Youtube https://youtube.com/@tarredev
 
-## Getting Started
+¡Bienvenido al curso definitivo donde aprenderás a crear un clon de Netflix desde cero! Usaremos las últimas tecnologías del ecosistema JavaScript, incluyendo ReactJS, Next.js 14 y TypeScript para la creación de una aplicación web moderna, combinados con Prisma para la gestión de bases de datos y NextAuth para la autenticación segura de usuarios. Además, diseñaremos una interfaz profesional con Tailwind CSS y ShadCN, y finalmente, desplegaremos el proyecto en Vercel de forma gratuita.
 
-First, run the development server:
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+- 🌐 Next.js 14 & server actions
+- 🔐  Autenticación con NextAuth
+- 🎨 Componentes con Shadcn UI y Tailwind CSS
+- 💾 PostgresDB using NeonDB
+- 🚀 Despliegue en Vercel
+- 📱 Web responsive
+- ❤️ Lista de películas que me gustan
+- ⚙️ Gestión de usuarios dentro de la cuenta
+- 🕹️ Prisma io como ORM
+- 🔗 TypeScript
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+![screencapture-localhost-3001-2024-10-05-18_07_42](https://github.com/user-attachments/assets/635413bb-5f6e-4367-928e-ce945e5f469b)
+![screencapture-localhost-3001-login-2024-10-05-18_03_18](https://github.com/user-attachments/assets/b3231f84-bf74-46a7-ac46-5e263dab21a1)
+![screencapture-localhost-3001-profiles-2024-10-05-18_03_55](https://github.com/user-attachments/assets/90876862-ee70-482b-9f21-f2d2c373a989)
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
