@@ -4,11 +4,8 @@ import { Checkbox } from "@/components/ui/checkbox";
 
 import { Terms } from "../components/Terms";
 import { LoginForm } from "./LoginForm";
-import { auth } from "@/auth";
 
 export default async function LoginPage() {
-  const session = await auth();
-
   return (
     <div>
       <p className="text-3xl font-bold text-left mb-7">Iniciar sesión</p>

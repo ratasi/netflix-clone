@@ -12,7 +12,6 @@ export async function POST(req: Request) {
     const createdMovies = await Promise.all(
       movies.map(async (movie) => {
         const {
-          id,
           title,
           movieVideo,
           trailerVideo,
