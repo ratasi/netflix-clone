@@ -41,9 +41,9 @@ export function LoginForm() {
           toast({
             title: "Login se ha realizado con éxito",
           });
+          router.push("/profiles");
         }
       });
-      router.push("/profiles");
     } catch (error) {
       console.log(error);
     }
